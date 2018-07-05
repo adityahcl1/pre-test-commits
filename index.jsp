@@ -3,7 +3,7 @@
 <head>
 <title>JSP Test</title>
 <%!
-String message = "second";
+String message = "3rd";
 %>
 </head>
 <body>
